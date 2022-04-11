@@ -234,7 +234,6 @@ Esse endpoint cria um novo cliente.
 
 `POST http://store.com/clientes`
 
-
 ## Listar todos os clientes
 
 ```ruby
